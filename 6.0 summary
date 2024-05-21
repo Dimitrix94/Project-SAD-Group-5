@@ -1,0 +1,7 @@
+6.0 Summary of Requirement Analysis process
+The general objective of the proposed system is to seek a postgraduate supervision platform that is efficient, transparent, and secure. The new system is expected to better the current inefficiency of the system and, through new features for scheduling, communication, feedback, and security, improve the quality of the whole postgraduate system. This means that the system is associated with better academic outcomes, better research development, and a better academic environment that is more supportive and more productive for both the students and their supervisors.
+Therefore, the summary of requirement of analysis process are:
+1. Students at UTM can search through any section from any city, allowing for students to choose from any course and register from any location.
+2. Students send messages to their supervisors, allowing direct communication for guidance or requests.
+3. Supervisors have the authority to either accept or reject student requests, if it doesn't fit their schedule student and refer them to other supervisors
+4. Administrators have the responsibility to verify the make sureof student details, ensuring the student info is legit and it’s an actual student in the system.
